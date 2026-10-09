@@ -1,8 +1,8 @@
 # MLGeo 2026: Machine Learning in Earth and Space Sciences
 
 ## Student Information
-**Name:** [Miranda Strapason]
-**UW Net ID:** [mlstrap]
+**Name:** Miranda Strapason
+**UW Net ID:** mlstrap
 
 This repository contains my assignments and environment configurations for ESS469: Machine Learning in the Geosciences.
 
